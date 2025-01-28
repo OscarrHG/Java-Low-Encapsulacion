@@ -8,6 +8,6 @@ public class Gato{
         g1.camina();
         g1.maulla();
         System.out.println("Nombre: " + g1.nombre);
-        //26-01
+        //27-01
     }
 }
