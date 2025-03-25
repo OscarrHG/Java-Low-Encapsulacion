@@ -121,5 +121,5 @@ public class CajeroATM {
         CajeroATM actuar = new CajeroATM();
         actuar.menuOpciones();
     }
-    //123-0003
+    //23-03
 }
